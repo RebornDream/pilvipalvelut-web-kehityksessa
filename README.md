@@ -1,4 +1,4 @@
-(#[**Lorem**]
+(#[Lorem]
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod elit diam, non imperdiet elit consequat id. Donec quis arcu risus. Maecenas feugiat convallis velit, tempor fermentum quam pretium at. Suspendisse aliquet, purus ut luctus finibus, felis urna fermentum sapien, sit amet vehicula nisl urna ut lacus. Nullam convallis, ex sed fermentum egestas, massa augue molestie est, vel suscipit lectus odio ac sem. Ut tellus risus, tincidunt in lobortis non, condimentum et elit. Morbi placerat ullamcorper dapibus.
 
@@ -6,7 +6,7 @@ Vivamus at sagittis felis, vel bibendum tortor. Vivamus laoreet arcu sed elit ve
 
 Quisque vel lacus euismod, cursus nunc feugiat, commodo risus. Integer ut nulla sapien. In dignissim enim convallis neque hendrerit porttitor. Suspendisse aliquet eget sem ut molestie. Curabitur porttitor, sapien vitae finibus placerat, augue elit iaculis magna, id blandit risus erat at tellus. Integer imperdiet eleifend eros eu suscipit. Sed purus massa, pulvinar ut leo vel, condimentum tristique magna. Mauris efficitur sodales varius. Duis eu faucibus diam, vitae molestie diam. Vivamus malesuada urna eget enim sodales tempus. Vestibulum ultrices lobortis ligula, et efficitur elit rhoncus non.
 
-(#[**Ipsum**]
+(#[Ipsum]
 
 Mauris egestas auctor lectus quis interdum. Maecenas ac dui aliquam, gravida urna in, semper magna. Pellentesque cursus diam ultricies ex hendrerit pharetra. Phasellus eros felis, luctus non risus nec, condimentum tincidunt sem. Praesent metus diam, rutrum nec laoreet sit amet, vulputate a felis. Phasellus sollicitudin tortor id blandit maximus. Suspendisse metus justo, iaculis vitae vestibulum nec, accumsan et nulla. Morbi tristique, mauris in eleifend congue, tellus neque placerat lacus, ac lobortis leo urna id tellus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus ac sem justo. Aenean ut risus ultrices lectus eleifend condimentum. Pellentesque egestas velit sit amet tempor interdum.
 
