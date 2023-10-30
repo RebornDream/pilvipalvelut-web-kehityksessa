@@ -4,7 +4,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod elit diam, 
 
 Vivamus at sagittis felis, vel bibendum tortor. Vivamus laoreet arcu sed elit venenatis, eget mattis nunc gravida. Nam commodo arcu vitae massa lobortis, vitae vestibulum nulla tempor. Nulla interdum justo purus, id bibendum odio iaculis at. Fusce feugiat sapien eu fermentum tempus. In ac ex vitae ipsum rutrum posuere ac quis lorem. Cras ac mauris eleifend, lacinia neque in, egestas ipsum. Aliquam ultrices egestas congue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam eu est pulvinar sapien rhoncus suscipit. Sed vel hendrerit tortor.
 
-{% include youtubePlayer.html id="aAkMkVFwAoo" %}
+<iframe width="480" height="360" src="http://www.youtube.com/embed/aAkMkVFwAoo" frameborder="0"> </iframe
 
 # Ipsum
 
